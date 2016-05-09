@@ -1,0 +1,26 @@
+var classSophus_1_1SO3GroupBase =
+[
+    [ "Adjoint", "classSophus_1_1SO3GroupBase.html#a51c46f75563c21fbd223b4a444923306", null ],
+    [ "ConstQuaternionReference", "classSophus_1_1SO3GroupBase.html#a8a5a23aee10f2850a5894b7c1f5e6654", null ],
+    [ "Point", "classSophus_1_1SO3GroupBase.html#a1cfbc3b3a28e1f70b3e1845716db0a1b", null ],
+    [ "QuaternionReference", "classSophus_1_1SO3GroupBase.html#af58920cc70e59d58dcf427a22ebacaeb", null ],
+    [ "Scalar", "classSophus_1_1SO3GroupBase.html#a31bf31815c195b7150da8a8e8c6f0189", null ],
+    [ "Tangent", "classSophus_1_1SO3GroupBase.html#a11150229b6a471ae96cde974ece5ec7c", null ],
+    [ "Transformation", "classSophus_1_1SO3GroupBase.html#aa20fc57bf1b355a6616f5c4b785f1fc5", null ],
+    [ "Adj", "classSophus_1_1SO3GroupBase.html#ade5f1d38e3f662b0cf63f7e4dea22b9e", null ],
+    [ "cast", "classSophus_1_1SO3GroupBase.html#acb33d1cfaee1441ceece20b7c7112a6b", null ],
+    [ "data", "classSophus_1_1SO3GroupBase.html#a2fbf1faa2799543e1f42df71bafe3b80", null ],
+    [ "data", "classSophus_1_1SO3GroupBase.html#a04ee3ac9985d632075bbc7d3d2099c08", null ],
+    [ "fastMultiply", "classSophus_1_1SO3GroupBase.html#aa0ed45f31d37bb97c60c839f680bed44", null ],
+    [ "inverse", "classSophus_1_1SO3GroupBase.html#a0ceb6acb323c2b8388f26d83c5e7bd59", null ],
+    [ "log", "classSophus_1_1SO3GroupBase.html#a9337e13b7f44533d06571801a99c3948", null ],
+    [ "matrix", "classSophus_1_1SO3GroupBase.html#aae730ba3ca450aaa78af992a39687505", null ],
+    [ "normalize", "classSophus_1_1SO3GroupBase.html#a10c6863560f5bac15d13d1916c3cda95", null ],
+    [ "operator*", "classSophus_1_1SO3GroupBase.html#ae4d0b5e143289856bb6756d2149e429a", null ],
+    [ "operator*", "classSophus_1_1SO3GroupBase.html#a5e6e23494cdf9161a647bde24f43e913", null ],
+    [ "operator*=", "classSophus_1_1SO3GroupBase.html#aeb9fd0d8089a51a9a0a0ad08eba1a8a0", null ],
+    [ "operator=", "classSophus_1_1SO3GroupBase.html#a041893de9d3e7ddb5c0bd12add57319b", null ],
+    [ "setQuaternion", "classSophus_1_1SO3GroupBase.html#aacf1cdcbeb6ebff5ab5f86ad015c16f9", null ],
+    [ "unit_quaternion", "classSophus_1_1SO3GroupBase.html#a4473a6f45a8a14a38aac8fef45210143", null ],
+    [ "unit_quaternion_nonconst", "classSophus_1_1SO3GroupBase.html#acc22bf9943f77815456cf8ecd147832a", null ]
+];

@@ -1,0 +1,8 @@
+<map id="lsd_slam_core/src/GlobalMapping/g2oTypeSim3Sophus.h" name="lsd_slam_core/src/GlobalMapping/g2oTypeSim3Sophus.h">
+<area shape="rect" id="node2" href="$SophusUtil_8h.html" title="util/SophusUtil.h" alt="" coords="118,104,236,131"/>
+<area shape="rect" id="node3" href="$sim3_8hpp.html" title="sophus/sim3.hpp" alt="" coords="62,187,183,213"/>
+<area shape="rect" id="node10" href="$se3_8hpp.html" title="sophus/se3.hpp" alt="" coords="181,261,296,288"/>
+<area shape="rect" id="node4" href="$rxso3_8hpp.html" title="rxso3.hpp" alt="" coords="78,261,156,288"/>
+<area shape="rect" id="node5" href="$sophus_8hpp.html" title="sophus.hpp" alt="" coords="109,411,197,437"/>
+<area shape="rect" id="node9" href="$so3_8hpp.html" title="so3.hpp" alt="" coords="155,336,223,363"/>
+</map>

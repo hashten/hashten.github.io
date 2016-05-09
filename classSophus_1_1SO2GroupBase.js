@@ -1,0 +1,26 @@
+var classSophus_1_1SO2GroupBase =
+[
+    [ "Adjoint", "classSophus_1_1SO2GroupBase.html#a02b4843e52df827cf466eacd288697fa", null ],
+    [ "ComplexReference", "classSophus_1_1SO2GroupBase.html#adad5730f4c0387415b8dfc3c5aa8b8f2", null ],
+    [ "ConstComplexReference", "classSophus_1_1SO2GroupBase.html#a077856f95a5c02933efd03aa1393825f", null ],
+    [ "Point", "classSophus_1_1SO2GroupBase.html#acdbb4a45d5f3d826b6bf8462c92c7f54", null ],
+    [ "Scalar", "classSophus_1_1SO2GroupBase.html#a075b701502715aecf0bdb3464963d36c", null ],
+    [ "Tangent", "classSophus_1_1SO2GroupBase.html#a3701d07bf2791675518a0ceb33ce653b", null ],
+    [ "Transformation", "classSophus_1_1SO2GroupBase.html#a8981dccaf65802191e989815046b6a82", null ],
+    [ "Adj", "classSophus_1_1SO2GroupBase.html#a9f0dd5c38ac6adf1342e3cc1aa81554a", null ],
+    [ "cast", "classSophus_1_1SO2GroupBase.html#a735b48a7f7878847dc842b955d8a7fb8", null ],
+    [ "data", "classSophus_1_1SO2GroupBase.html#ae9446146654e17b23bd9e0ec497461fb", null ],
+    [ "data", "classSophus_1_1SO2GroupBase.html#a05aaded8a1a330b347530f53426c6dbf", null ],
+    [ "fastMultiply", "classSophus_1_1SO2GroupBase.html#ad00a8f66f8fc0814f395d92dcfb9943c", null ],
+    [ "inverse", "classSophus_1_1SO2GroupBase.html#afe7d814e728ec95bd920931585c4a8d2", null ],
+    [ "log", "classSophus_1_1SO2GroupBase.html#a76559004167654e7f0045a194a7d653b", null ],
+    [ "matrix", "classSophus_1_1SO2GroupBase.html#a12f864ddd485a5cf0b63a885ac3e2909", null ],
+    [ "normalize", "classSophus_1_1SO2GroupBase.html#ab2012323b9b58e90e032ac4663225439", null ],
+    [ "operator*", "classSophus_1_1SO2GroupBase.html#adf43a9597e4a37ae4a9af3fe1b7d8ae9", null ],
+    [ "operator*", "classSophus_1_1SO2GroupBase.html#ae250a38c4adce5eec60f716502651b1b", null ],
+    [ "operator*=", "classSophus_1_1SO2GroupBase.html#a68b1cf84a0e585432508e5310df677db", null ],
+    [ "operator=", "classSophus_1_1SO2GroupBase.html#a1fc0323f31179fb774417605b8296b3d", null ],
+    [ "setComplex", "classSophus_1_1SO2GroupBase.html#afc649b78e35d2a7504a88002a978b8b9", null ],
+    [ "unit_complex", "classSophus_1_1SO2GroupBase.html#afa7668ed48abcc80cc7be907e62fbc09", null ],
+    [ "unit_complex_nonconst", "classSophus_1_1SO2GroupBase.html#a9ce33da5d01649e6303998be98cad7e6", null ]
+];

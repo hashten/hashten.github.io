@@ -1,0 +1,3 @@
+<map id="Eigen::Map&lt; const Sophus::SO2Group&lt; _Scalar &gt;, _Options &gt;" name="Eigen::Map&lt; const Sophus::SO2Group&lt; _Scalar &gt;, _Options &gt;">
+<area shape="rect" id="node2" href="$classSophus_1_1SO2GroupBase.html" title="{Sophus::SO2GroupBase\l\&lt; Map\&lt; const Sophus::\lSO2Group\&lt; _Scalar \&gt;, \l_Options \&gt; \&gt;\n|+ DoF\l+ num_parameters\l+ N\l|+ Adj()\l+ cast()\l+ data()\l+ data()\l+ fastMultiply()\l+ inverse()\l+ log()\l+ normalize()\l+ matrix()\l+ operator=()\l+ operator*()\l+ operator*()\l+ operator*=()\l+ setComplex()\l+ unit_complex()\l+ log()\l+ exp()\l+ generator()\l+ hat()\l+ lieBracket()\l+ vee()\l&#45; unit_complex_nonconst()\l}" alt="" coords="7,5,181,464"/>
+</map>

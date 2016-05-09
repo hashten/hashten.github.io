@@ -1,0 +1,6 @@
+<map id="of2::FabMap" name="of2::FabMap">
+<area shape="rect" id="node2" href="$classof2_1_1FabMap1.html" title="{of2::FabMap1\n||+ FabMap1()\l+ ~FabMap1()\l# getLikelihoods()\l}" alt="" coords="5,756,128,863"/>
+<area shape="rect" id="node3" href="$classof2_1_1FabMap2.html" title="{of2::FabMap2\n|# d1\l# d2\l# d3\l# d4\l# children\l# trainingDefaults\l# trainingInvertedMap\l# testDefaults\l# testInvertedMap\l|+ FabMap2()\l+ ~FabMap2()\l+ addTraining()\l+ addTraining()\l+ add()\l+ add()\l# getLikelihoods()\l# getNewPlaceLikelihood()\l# getIndexLikelihoods()\l# addToIndex()\l}" alt="" coords="153,646,329,973"/>
+<area shape="rect" id="node4" href="$classof2_1_1FabMapFBO.html" title="{of2::FabMapFBO\n|# PsGd\l# rejectionThreshold\l# bisectionStart\l# bisectionIts\l|+ FabMapFBO()\l+ ~FabMapFBO()\l# getLikelihoods()\l# setWordStatistics()\l# limitbisection()\l# bennettInequality()\l# compInfo()\l}" alt="" coords="354,705,499,914"/>
+<area shape="rect" id="node5" href="$classof2_1_1FabMapLUT.html" title="{of2::FabMapLUT\n|# table\l# precision\l|+ FabMapLUT()\l+ ~FabMapLUT()\l# getLikelihoods()\l}" alt="" coords="523,749,647,870"/>
+</map>

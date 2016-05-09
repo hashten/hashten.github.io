@@ -1,0 +1,19 @@
+<map id="lsd_slam_core/src/GlobalMapping/g2oTypeSim3Sophus.h" name="lsd_slam_core/src/GlobalMapping/g2oTypeSim3Sophus.h">
+<area shape="rect" id="node2" href="$FramePoseStruct_8h.html" title="lsd_slam_core/src/DataStructures\l/FramePoseStruct.h" alt="" coords="1613,97,1832,138"/>
+<area shape="rect" id="node9" href="$KeyFrameGraph_8cpp.html" title="lsd_slam_core/src/Global\lMapping/KeyFrameGraph.cpp" alt="" coords="2528,278,2723,319"/>
+<area shape="rect" id="node11" href="$ROSOutput3DWrapper_8cpp.html" title="lsd_slam_core/src/IOWrapper\l/ROS/ROSOutput3DWrapper.cpp" alt="" coords="2747,278,2965,319"/>
+<area shape="rect" id="node12" href="$SlamSystem_8cpp.html" title="lsd_slam_core/src/SlamSystem.cpp" alt="" coords="2989,285,3221,312"/>
+<area shape="rect" id="node18" href="$g2oTypeSim3Sophus_8cpp.html" title="lsd_slam_core/src/Global\lMapping/g2oTypeSim3Sophus.cpp" alt="" coords="2899,97,3121,138"/>
+<area shape="rect" id="node3" href="$Frame_8h.html" title="lsd_slam_core/src/DataStructures\l/Frame.h" alt="" coords="1613,187,1832,229"/>
+<area shape="rect" id="node6" href="$FramePoseStruct_8cpp.html" title="lsd_slam_core/src/DataStructures\l/FramePoseStruct.cpp" alt="" coords="5,278,224,319"/>
+<area shape="rect" id="node4" href="$Frame_8cpp.html" title="lsd_slam_core/src/DataStructures\l/Frame.cpp" alt="" coords="249,278,468,319"/>
+<area shape="rect" id="node5" href="$FrameMemory_8cpp.html" title="lsd_slam_core/src/DataStructures\l/FrameMemory.cpp" alt="" coords="493,278,712,319"/>
+<area shape="rect" id="node7" href="$DepthMap_8cpp.html" title="lsd_slam_core/src/DepthEstimation\l/DepthMap.cpp" alt="" coords="737,278,967,319"/>
+<area shape="rect" id="node8" href="$DepthMapPixelHypothesis_8cpp.html" title="lsd_slam_core/src/DepthEstimation\l/DepthMapPixelHypothesis.cpp" alt="" coords="991,278,1220,319"/>
+<area shape="rect" id="node10" href="$TrackableKeyFrameSearch_8cpp.html" title="lsd_slam_core/src/Global\lMapping/TrackableKeyFrameSearch.cpp" alt="" coords="1244,278,1501,319"/>
+<area shape="rect" id="node13" href="$Relocalizer_8cpp.html" title="lsd_slam_core/src/Tracking\l/Relocalizer.cpp" alt="" coords="1527,278,1709,319"/>
+<area shape="rect" id="node14" href="$SE3Tracker_8cpp.html" title="lsd_slam_core/src/Tracking\l/SE3Tracker.cpp" alt="" coords="1734,278,1916,319"/>
+<area shape="rect" id="node15" href="$Sim3Tracker_8cpp.html" title="lsd_slam_core/src/Tracking\l/Sim3Tracker.cpp" alt="" coords="1941,278,2123,319"/>
+<area shape="rect" id="node16" href="$TrackingReference_8cpp.html" title="lsd_slam_core/src/Tracking\l/TrackingReference.cpp" alt="" coords="2147,278,2329,319"/>
+<area shape="rect" id="node17" href="$globalFuncs_8cpp.html" title="lsd_slam_core/src/util\l/globalFuncs.cpp" alt="" coords="2355,278,2503,319"/>
+</map>

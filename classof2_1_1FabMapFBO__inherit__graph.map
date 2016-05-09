@@ -1,0 +1,3 @@
+<map id="of2::FabMapFBO" name="of2::FabMapFBO">
+<area shape="rect" id="node2" href="$classof2_1_1FabMap.html" title="{of2::FabMap\n|# PzGL\l# clTree\l# trainingImgDescriptors\l# testImgDescriptors\l# priorMatches\l# PzGe\l# PzGNe\l# Pnew\l# mBias\l# sFactor\l# flags\l# numSamples\l|+ FabMap()\l+ ~FabMap()\l+ addTraining()\l+ addTraining()\l+ add()\l+ add()\l+ getTrainingImgDescriptors()\l+ getTestImgDescriptors()\l+ compare()\l+ compare()\l+ compare()\l+ compare()\l+ compare()\l# compareImgDescriptor()\l# addImgDescriptor()\l# getLikelihoods()\l# getNewPlaceLikelihood()\l# normaliseDistribution()\l# pq()\l# Pzq()\l# PzqGzpq()\l# PzqGeq()\l# PeqGL()\l# PzqGL()\l# PzqGzpqL()\l}" alt="" coords="5,6,200,597"/>
+</map>

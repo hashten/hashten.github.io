@@ -1,0 +1,6 @@
+<map id="lsd_slam::ROSImageStreamThread" name="lsd_slam::ROSImageStreamThread">
+<area shape="rect" id="node2" href="$classlsd__slam_1_1InputImageStream.html" title="{lsd_slam::InputImageStream\n|# fx_\l# fy_\l# cx_\l# cy_\l# width_\l# height_\l|+ ~InputImageStream()\l+ run()\l+ setCalibration()\l+ getBuffer()\l+ fx()\l+ fy()\l+ cx()\l+ cy()\l+ width()\l+ height()\l}" alt="" coords="21,451,211,733"/>
+<area shape="rect" id="node3" href="$classlsd__slam_1_1NotifyBuffer.html" title="{lsd_slam::NotifyBuffer\l\&lt; lsd_slam::TimestampedObject \&gt;\n|&#45; bufferMutex\l&#45; bufferNonEmptyCondition\l&#45; bufferSize\l&#45; queue\l|+ NotifyBuffer()\l+ NotifyBuffer()\l+ setReceiver()\l+ pushBack()\l+ size()\l+ first()\l+ popFront()\l+ getMutex()\l}" alt="" coords="5,147,227,386"/>
+<area shape="rect" id="node4" href="$classlsd__slam_1_1Notifiable.html" title="{lsd_slam::Notifiable\n|# notifyCondition\l|+ notify()\l}" alt="" coords="47,5,184,83"/>
+<area shape="rect" id="node5" href="$classlsd__slam_1_1Undistorter.html" title="{lsd_slam::Undistorter\n||+ ~Undistorter()\l+ undistort()\l+ getK()\l+ getOriginalK()\l+ getOutputWidth()\l+ getOutputHeight()\l+ getInputWidth()\l+ getInputHeight()\l+ isValid()\l+ getUndistorterForFile()\l}" alt="" coords="235,487,399,697"/>
+</map>

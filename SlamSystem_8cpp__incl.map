@@ -1,0 +1,26 @@
+<map id="lsd_slam_core/src/SlamSystem.cpp" name="lsd_slam_core/src/SlamSystem.cpp">
+<area shape="rect" id="node2" href="$SlamSystem_8h.html" title="SlamSystem.h" alt="" coords="1532,88,1639,115"/>
+<area shape="rect" id="node17" href="$Frame_8h.html" title="DataStructures/Frame.h" alt="" coords="1808,88,1971,115"/>
+<area shape="rect" id="node20" href="$g2oTypeSim3Sophus_8h.html" title="GlobalMapping/g2oTypeSim3\lSophus.h" alt="" coords="3726,262,3918,303"/>
+<area shape="rect" id="node24" href="$FrameMemory_8h.html" title="DataStructures/FrameMemory.h" alt="" coords="26,179,235,205"/>
+<area shape="rect" id="node28" href="$SE3Tracker_8h.html" title="Tracking/SE3Tracker.h" alt="" coords="2716,88,2871,115"/>
+<area shape="rect" id="node31" href="$Sim3Tracker_8h.html" title="Tracking/Sim3Tracker.h" alt="" coords="2902,88,3063,115"/>
+<area shape="rect" id="node32" href="$DepthMap_8h.html" title="DepthEstimation/DepthMap.h" alt="" coords="2359,88,2554,115"/>
+<area shape="rect" id="node34" href="$TrackingReference_8h.html" title="Tracking/TrackingReference.h" alt="" coords="1623,179,1820,205"/>
+<area shape="rect" id="node35" href="$LiveSLAMWrapper_8h.html" title="LiveSLAMWrapper.h" alt="" coords="4056,88,4198,115"/>
+<area shape="rect" id="node39" href="$globalFuncs_8h.html" title="util/globalFuncs.h" alt="" coords="3753,88,3876,115"/>
+<area shape="rect" id="node40" href="$KeyFrameGraph_8h.html" title="GlobalMapping/KeyFrameGraph.h" alt="" coords="260,179,479,205"/>
+<area shape="rect" id="node42" href="$TrackableKeyFrameSearch_8h.html" title="GlobalMapping/TrackableKey\lFrameSearch.h" alt="" coords="554,171,746,213"/>
+<area shape="rect" id="node44" href="$ImageDisplay_8h.html" title="IOWrapper/ImageDisplay.h" alt="" coords="3402,88,3582,115"/>
+<area shape="rect" id="node46" href="$Output3DWrapper_8h.html" title="IOWrapper/Output3DWrapper.h" alt="" coords="3942,269,4147,296"/>
+<area shape="rect" id="node8" href="$settings_8h.html" title="util/settings.h" alt="" coords="2498,269,2598,296"/>
+<area shape="rect" id="node10" href="$Timestamp_8h.html" title="IOWrapper/Timestamp.h" alt="" coords="4171,269,4335,296"/>
+<area shape="rect" id="node14" href="$SophusUtil_8h.html" title="util/SophusUtil.h" alt="" coords="2726,360,2844,387"/>
+<area shape="rect" id="node15" href="$Relocalizer_8h.html" title="Tracking/Relocalizer.h" alt="" coords="1844,179,1996,205"/>
+<area shape="rect" id="node19" href="$FramePoseStruct_8h.html" title="DataStructures/FramePose\lStruct.h" alt="" coords="3020,171,3202,213"/>
+<area shape="rect" id="node29" href="$EigenCoreInclude_8h.html" title="util/EigenCoreInclude.h" alt="" coords="2316,269,2474,296"/>
+<area shape="rect" id="node30" href="$LGSX_8h.html" title="Tracking/LGSX.h" alt="" coords="2823,179,2946,205"/>
+<area shape="rect" id="node33" href="$IndexThreadReduce_8h.html" title="util/IndexThreadReduce.h" alt="" coords="2071,179,2242,205"/>
+<area shape="rect" id="node37" href="$NotifyBuffer_8h.html" title="IOWrapper/NotifyBuffer.h" alt="" coords="1378,179,1548,205"/>
+<area shape="rect" id="node38" href="$TimestampedObject_8h.html" title="IOWrapper/TimestampedObject.h" alt="" coords="4056,179,4272,205"/>
+</map>

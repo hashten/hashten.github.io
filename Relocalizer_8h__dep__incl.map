@@ -1,0 +1,8 @@
+<map id="lsd_slam_core/src/Tracking/Relocalizer.h" name="lsd_slam_core/src/Tracking/Relocalizer.h">
+<area shape="rect" id="node2" href="$SlamSystem_8h.html" title="lsd_slam_core/src/SlamSystem.h" alt="" coords="359,104,577,131"/>
+<area shape="rect" id="node7" href="$Relocalizer_8cpp.html" title="lsd_slam_core/src/Tracking\l/Relocalizer.cpp" alt="" coords="602,97,784,138"/>
+<area shape="rect" id="node3" href="$LiveSLAMWrapper_8cpp.html" title="lsd_slam_core/src/LiveSLAMWrapper.cpp" alt="" coords="5,195,272,221"/>
+<area shape="rect" id="node4" href="$main__live__odometry_8cpp.html" title="lsd_slam_core/src/main\l_live_odometry.cpp" alt="" coords="296,187,455,229"/>
+<area shape="rect" id="node5" href="$main__on__images_8cpp.html" title="lsd_slam_core/src/main\l_on_images.cpp" alt="" coords="480,187,639,229"/>
+<area shape="rect" id="node6" href="$SlamSystem_8cpp.html" title="lsd_slam_core/src/SlamSystem.cpp" alt="" coords="664,195,896,221"/>
+</map>

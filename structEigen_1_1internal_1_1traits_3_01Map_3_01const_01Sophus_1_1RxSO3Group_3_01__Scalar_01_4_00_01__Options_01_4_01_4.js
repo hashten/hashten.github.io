@@ -1,0 +1,5 @@
+var structEigen_1_1internal_1_1traits_3_01Map_3_01const_01Sophus_1_1RxSO3Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4 =
+[
+    [ "QuaternionType", "structEigen_1_1internal_1_1traits_3_01Map_3_01const_01Sophus_1_1RxSO3Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#af549201042034e5b5a51e8cce11e3bf2", null ],
+    [ "Scalar", "structEigen_1_1internal_1_1traits_3_01Map_3_01const_01Sophus_1_1RxSO3Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#a7ec59c13ad809a7568e5bbdef4a8819e", null ]
+];
