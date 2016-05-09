@@ -1,3 +1,0 @@
-<map id="lsd_slam::TimestampedObject&lt; T &gt;" name="lsd_slam::TimestampedObject&lt; T &gt;">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1Timestamp.html" title="{lsd_slam::Timestamp\n|&#45; timePoint\l&#45; systemTimePoint\l&#45; externalStamp\l&#45; startupTimePoint\l&#45; localtimeMutex\l|+ Timestamp()\l+ Timestamp()\l+ toSec()\l+ toDateStr()\l+ secondsUntil()\l+ now()\l}" alt="" coords="47,6,193,215"/>
-</map>

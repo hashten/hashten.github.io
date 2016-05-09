@@ -1,3 +1,0 @@
-<map id="lsd_slam::SE3Tracker" name="lsd_slam::SE3Tracker">
-<area shape="rect" id="node3" href="$classlsd__slam_1_1DenseDepthTrackerSettings.html" title="{lsd_slam::DenseDepthTracker\lSettings\n|+ lambdaSuccessFac\l+ lambdaFailFac\l+ lambdaInitial\l+ stepSizeMin\l+ convergenceEps\l+ maxItsPerLvl\l+ lambdaInitialTestTrack\l+ stepSizeMinTestTrack\l+ convergenceEpsTestTrack\l+ maxItsTestTrack\l+ huber_d\l+ var_weight\l|+ DenseDepthTrackerSettings()\l}" alt="" coords="139,5,345,259"/>
-</map>

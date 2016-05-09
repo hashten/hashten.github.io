@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$classlsd__slam__core_1_1LSDDebugParamsConfig_1_1AbstractGroupDescription.html" title="lsd_slam_core::LSDDebugParams\lConfig::AbstractGroupDescription" alt="" coords="113,17,335,58"/>
-<area shape="rect" id="node4" href="$classlsd__slam__core_1_1LSDParamsConfig_1_1AbstractGroupDescription.html" title="lsd_slam_core::LSDParams\lConfig::AbstractGroupDescription" alt="" coords="115,86,333,127"/>
-<area shape="rect" id="node3" href="$classlsd__slam__core_1_1LSDDebugParamsConfig_1_1GroupDescription.html" title="lsd_slam_core::LSDDebugParams\lConfig::GroupDescription\l\&lt; T, PT \&gt;" alt="" coords="385,5,607,61"/>
-<area shape="rect" id="node5" href="$classlsd__slam__core_1_1LSDParamsConfig_1_1GroupDescription.html" title="lsd_slam_core::LSDParams\lConfig::GroupDescription\l\&lt; T, PT \&gt;" alt="" coords="403,85,589,141"/>
-</map>

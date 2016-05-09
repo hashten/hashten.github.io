@@ -1,3 +1,0 @@
-<map id="lsd_slam::UndistorterOpenCV" name="lsd_slam::UndistorterOpenCV">
-<area shape="rect" id="node2" href="$classlsd__slam_1_1Undistorter.html" title="{lsd_slam::Undistorter\n||+ ~Undistorter()\l+ undistort()\l+ getK()\l+ getOriginalK()\l+ getOutputWidth()\l+ getOutputHeight()\l+ getInputWidth()\l+ getInputHeight()\l+ isValid()\l+ getUndistorterForFile()\l}" alt="" coords="21,6,184,215"/>
-</map>

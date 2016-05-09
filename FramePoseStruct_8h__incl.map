@@ -1,9 +1,0 @@
-<map id="lsd_slam_core/src/DataStructures/FramePoseStruct.h" name="lsd_slam_core/src/DataStructures/FramePoseStruct.h">
-<area shape="rect" id="node2" href="$SophusUtil_8h.html" title="util/SophusUtil.h" alt="" coords="113,195,231,221"/>
-<area shape="rect" id="node11" href="$g2oTypeSim3Sophus_8h.html" title="GlobalMapping/g2oTypeSim3\lSophus.h" alt="" coords="239,97,431,138"/>
-<area shape="rect" id="node3" href="$sim3_8hpp.html" title="sophus/sim3.hpp" alt="" coords="62,277,183,304"/>
-<area shape="rect" id="node10" href="$se3_8hpp.html" title="sophus/se3.hpp" alt="" coords="181,352,296,379"/>
-<area shape="rect" id="node4" href="$rxso3_8hpp.html" title="rxso3.hpp" alt="" coords="78,352,156,379"/>
-<area shape="rect" id="node5" href="$sophus_8hpp.html" title="sophus.hpp" alt="" coords="109,501,197,528"/>
-<area shape="rect" id="node9" href="$so3_8hpp.html" title="so3.hpp" alt="" coords="155,427,223,453"/>
-</map>

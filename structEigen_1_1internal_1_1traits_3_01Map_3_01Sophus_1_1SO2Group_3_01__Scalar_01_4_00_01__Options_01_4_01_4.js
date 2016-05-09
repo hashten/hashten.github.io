@@ -1,5 +1,0 @@
-var structEigen_1_1internal_1_1traits_3_01Map_3_01Sophus_1_1SO2Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4 =
-[
-    [ "ComplexType", "structEigen_1_1internal_1_1traits_3_01Map_3_01Sophus_1_1SO2Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#a020c05fa1834097b5a4e450d89fc40e0", null ],
-    [ "Scalar", "structEigen_1_1internal_1_1traits_3_01Map_3_01Sophus_1_1SO2Group_3_01__Scalar_01_4_00_01__Options_01_4_01_4.html#a439c80ff12c86be62ec6664d13491d8e", null ]
-];

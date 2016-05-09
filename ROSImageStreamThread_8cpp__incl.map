@@ -1,9 +1,0 @@
-<map id="lsd_slam_core/src/IOWrapper/ROS/ROSImageStreamThread.cpp" name="lsd_slam_core/src/IOWrapper/ROS/ROSImageStreamThread.cpp">
-<area shape="rect" id="node2" href="$ROSImageStreamThread_8h.html" title="ROSImageStreamThread.h" alt="" coords="631,96,811,123"/>
-<area shape="rect" id="node25" href="$settings_8h.html" title="util/settings.h" alt="" coords="1531,96,1631,123"/>
-<area shape="rect" id="node3" href="$NotifyBuffer_8h.html" title="IOWrapper/NotifyBuffer.h" alt="" coords="76,245,247,272"/>
-<area shape="rect" id="node7" href="$TimestampedObject_8h.html" title="IOWrapper/TimestampedObject.h" alt="" coords="535,245,752,272"/>
-<area shape="rect" id="node13" href="$InputImageStream_8h.html" title="IOWrapper/InputImageStream.h" alt="" coords="129,171,335,197"/>
-<area shape="rect" id="node20" href="$Undistorter_8h.html" title="util/Undistorter.h" alt="" coords="1230,245,1348,272"/>
-<area shape="rect" id="node10" href="$Timestamp_8h.html" title="IOWrapper/Timestamp.h" alt="" coords="689,328,853,355"/>
-</map>

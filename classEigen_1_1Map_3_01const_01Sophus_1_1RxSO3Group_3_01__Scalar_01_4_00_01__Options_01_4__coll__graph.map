@@ -1,3 +1,0 @@
-<map id="Eigen::Map&lt; const Sophus::RxSO3Group&lt; _Scalar &gt;, _Options &gt;" name="Eigen::Map&lt; const Sophus::RxSO3Group&lt; _Scalar &gt;, _Options &gt;">
-<area shape="rect" id="node2" href="$classSophus_1_1RxSO3GroupBase.html" title="{Sophus::RxSO3GroupBase\l\&lt; Map\&lt; const Sophus::RxSO3Group\l\&lt; _Scalar \&gt;, _Options \&gt; \&gt;\n|+ DoF\l+ num_parameters\l+ N\l|+ Adj()\l+ cast()\l+ data()\l+ data()\l+ fastMultiply()\l+ inverse()\l+ log()\l+ matrix()\l+ operator=()\l+ operator*()\land 9 more...\l+ log()\l+ d_lieBracketab_by_d_a()\l+ exp()\l+ expAndTheta()\l+ generator()\l+ hat()\l+ lieBracket()\l+ logAndTheta()\l+ vee()\l}" alt="" coords="4,6,240,421"/>
-</map>

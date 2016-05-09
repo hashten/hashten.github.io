@@ -1,9 +1,0 @@
-<map id="lsd_slam_core/src/Tracking/LGSX.h" name="lsd_slam_core/src/Tracking/LGSX.h">
-<area shape="rect" id="node2" href="$SE3Tracker_8h.html" title="lsd_slam_core/src/Tracking\l/SE3Tracker.h" alt="" coords="469,97,651,138"/>
-<area shape="rect" id="node6" href="$SE3Tracker_8cpp.html" title="lsd_slam_core/src/Tracking\l/SE3Tracker.cpp" alt="" coords="959,187,1141,229"/>
-<area shape="rect" id="node7" href="$Sim3Tracker_8h.html" title="lsd_slam_core/src/Tracking\l/Sim3Tracker.h" alt="" coords="237,97,419,138"/>
-<area shape="rect" id="node8" href="$Sim3Tracker_8cpp.html" title="lsd_slam_core/src/Tracking\l/Sim3Tracker.cpp" alt="" coords="5,187,187,229"/>
-<area shape="rect" id="node3" href="$TrackableKeyFrameSearch_8cpp.html" title="lsd_slam_core/src/Global\lMapping/TrackableKeyFrameSearch.cpp" alt="" coords="676,187,933,229"/>
-<area shape="rect" id="node4" href="$SlamSystem_8cpp.html" title="lsd_slam_core/src/SlamSystem.cpp" alt="" coords="212,195,444,221"/>
-<area shape="rect" id="node5" href="$Relocalizer_8cpp.html" title="lsd_slam_core/src/Tracking\l/Relocalizer.cpp" alt="" coords="469,187,651,229"/>
-</map>

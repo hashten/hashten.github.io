@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classSophus_1_1SO3GroupBase.html" title="SO3 base type &#45; implements SO3 class but is storage agnostic. " alt="" coords="5,11,171,53"/>
-<area shape="rect" id="node2" href="$classEigen_1_1Map_3_01Sophus_1_1SO3Group_3_01__Scalar_01_4_00_01__Options_01_4.html" title="Specialisation of Eigen::Map for SO3GroupBase. " alt="" coords="219,4,365,60"/>
-</map>

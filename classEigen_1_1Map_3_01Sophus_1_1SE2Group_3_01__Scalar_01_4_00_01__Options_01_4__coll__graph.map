@@ -1,3 +1,0 @@
-<map id="Eigen::Map&lt; Sophus::SE2Group&lt; _Scalar &gt;, _Options &gt;" name="Eigen::Map&lt; Sophus::SE2Group&lt; _Scalar &gt;, _Options &gt;">
-<area shape="rect" id="node2" href="$classSophus_1_1SE2GroupBase.html" title="{Sophus::SE2GroupBase\l\&lt; Map\&lt; Sophus::SE2Group\l\&lt; _Scalar \&gt;, _Options \&gt; \&gt;\n|+ DoF\l+ num_parameters\l+ N\l|+ Adj()\l+ cast()\l+ fastMultiply()\l+ inverse()\l+ log()\l+ normalize()\l+ matrix()\l+ matrix2x3()\l+ operator=()\l+ operator*()\land 10 more...\l+ log()\l+ d_lieBracketab_by_d_a()\l+ exp()\l+ generator()\l+ hat()\l+ lieBracket()\l+ vee()\l}" alt="" coords="5,6,187,391"/>
-</map>

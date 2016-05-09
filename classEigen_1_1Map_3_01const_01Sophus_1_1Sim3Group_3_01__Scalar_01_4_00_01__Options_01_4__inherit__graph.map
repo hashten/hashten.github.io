@@ -1,3 +1,0 @@
-<map id="Eigen::Map&lt; const Sophus::Sim3Group&lt; _Scalar &gt;, _Options &gt;" name="Eigen::Map&lt; const Sophus::Sim3Group&lt; _Scalar &gt;, _Options &gt;">
-<area shape="rect" id="node2" href="$classSophus_1_1Sim3GroupBase.html" title="{Sophus::Sim3GroupBase\l\&lt; Map\&lt; const Sophus::\lSim3Group\&lt; _Scalar \&gt;,\l _Options \&gt; \&gt;\n|+ DoF\l+ num_parameters\l+ N\l|+ Adj()\l+ cast()\l+ fastMultiply()\l+ inverse()\l+ log()\l+ matrix()\l+ matrix3x4()\l+ operator=()\l+ operator*()\l+ operator*()\land 13 more...\l+ log()\l+ d_lieBracketab_by_d_a()\l+ exp()\l+ generator()\l+ hat()\l+ lieBracket()\l+ vee()\l&#45; calcW()\l}" alt="" coords="6,6,183,421"/>
-</map>

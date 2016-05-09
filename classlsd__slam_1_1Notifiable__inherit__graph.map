@@ -1,3 +1,0 @@
-<map id="lsd_slam::Notifiable" name="lsd_slam::Notifiable">
-<area shape="rect" id="node2" href="$structlsd__slam_1_1LiveSLAMWrapper.html" title="{lsd_slam::LiveSLAMWrapper\n|&#45; imageStream\l&#45; outputWrapper\l&#45; isInitialized\l&#45; monoOdometry\l&#45; outFileName\l&#45; outFile\l&#45; fx\l&#45; fy\l&#45; cx\l&#45; cy\l&#45; width\l&#45; height\l&#45; imageSeqNumber\l|+ LiveSLAMWrapper()\l+ ~LiveSLAMWrapper()\l+ Loop()\l+ requestReset()\l+ resetAll()\l+ newImageCallback()\l+ logCameraPose()\l+ getSlamSystem()\l}" alt="" coords="5,131,195,487"/>
-</map>

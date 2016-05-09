@@ -1,5 +1,0 @@
-<map id="lsd_slam_core/cfg/cpp/lsd_slam_core/LSDDebugParamsConfig.h" name="lsd_slam_core/cfg/cpp/lsd_slam_core/LSDDebugParamsConfig.h">
-<area shape="rect" id="node2" href="$rosReconfigure_8h.html" title="lsd_slam_core/src/IOWrapper\l/ROS/rosReconfigure.h" alt="" coords="80,110,275,151"/>
-<area shape="rect" id="node3" href="$main__live__odometry_8cpp.html" title="lsd_slam_core/src/main\l_live_odometry.cpp" alt="" coords="5,201,164,242"/>
-<area shape="rect" id="node4" href="$main__on__images_8cpp.html" title="lsd_slam_core/src/main\l_on_images.cpp" alt="" coords="189,201,348,242"/>
-</map>

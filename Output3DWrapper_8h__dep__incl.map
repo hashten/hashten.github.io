@@ -1,8 +1,0 @@
-<map id="lsd_slam_core/src/IOWrapper/Output3DWrapper.h" name="lsd_slam_core/src/IOWrapper/Output3DWrapper.h">
-<area shape="rect" id="node2" href="$ROSOutput3DWrapper_8h.html" title="lsd_slam_core/src/IOWrapper\l/ROS/ROSOutput3DWrapper.h" alt="" coords="226,97,429,138"/>
-<area shape="rect" id="node6" href="$LiveSLAMWrapper_8cpp.html" title="lsd_slam_core/src/LiveSLAMWrapper.cpp" alt="" coords="455,104,721,131"/>
-<area shape="rect" id="node7" href="$SlamSystem_8cpp.html" title="lsd_slam_core/src/SlamSystem.cpp" alt="" coords="745,104,977,131"/>
-<area shape="rect" id="node3" href="$ROSOutput3DWrapper_8cpp.html" title="lsd_slam_core/src/IOWrapper\l/ROS/ROSOutput3DWrapper.cpp" alt="" coords="5,187,224,229"/>
-<area shape="rect" id="node4" href="$main__live__odometry_8cpp.html" title="lsd_slam_core/src/main\l_live_odometry.cpp" alt="" coords="248,187,407,229"/>
-<area shape="rect" id="node5" href="$main__on__images_8cpp.html" title="lsd_slam_core/src/main\l_on_images.cpp" alt="" coords="432,187,591,229"/>
-</map>
